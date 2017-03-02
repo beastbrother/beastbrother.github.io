@@ -1,7 +1,7 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
-url: http://webjeda.com/
+title: BeastBrother's Home
+desctiption: BeastBrother's home.
+url: https://beastbrother.github.io/
 permalink: ':title/'
 
 markdown: kramdown
@@ -31,13 +31,13 @@ highlight: rouge
 analytics: UA-83979019-1
 
 # Comments
-disqus-shortname: webjeda-demo
+disqus-shortname: BeastBrother's Home
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
 api-token:   
 
 include: [_pages]
-version: 0.8
+version: 0.1
 
 gems: [jekyll-paginate, jekyll-seo-tag]
