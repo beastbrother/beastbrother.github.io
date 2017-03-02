@@ -1,7 +1,7 @@
 
 title: BeastBrother's Home
 desctiption: BeastBrother's home.
-url: https://beastbrother.github.io/
+url: https://beastbrother.github.io
 permalink: ':title/'
 
 markdown: kramdown
