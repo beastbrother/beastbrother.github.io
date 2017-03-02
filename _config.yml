@@ -1,6 +1,6 @@
 
-title: Karna
-desctiption: Karna is a responsive jekyll theme which includes pinterest like pins.
+title: Beast Brother's Home
+desctiption: Beast Brother's Home.
 url: https://beastbrother.github.io
 permalink: ':title/'
 
@@ -38,6 +38,6 @@ disqus-shortname: webjeda-demo
 api-token:   
 
 include: [_pages]
-version: 0.8
+version: 0.1
 
 gems: [jekyll-paginate, jekyll-seo-tag]
