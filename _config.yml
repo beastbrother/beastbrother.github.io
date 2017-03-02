@@ -5,7 +5,7 @@ url: https://beastbrother.github.io
 permalink: ':title/'
 
 markdown: kramdown
-baseurl: "https://beastbrother.github.io/"
+baseurl: "https://beastbrother.github.io"
 
 
 sass:
